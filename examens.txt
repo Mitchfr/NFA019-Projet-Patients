@@ -1,0 +1,6 @@
+1,2,1,Consultation,05/07/2022
+2,1,1,Cancerologie,15/07/2025
+3,1,1,Radio,10/07/2022
+4,3,1,Echographie,13/07/2021
+5,2,1,Cancerologie,15/07/2021
+6,2,1,Echographie,15/07/2021
